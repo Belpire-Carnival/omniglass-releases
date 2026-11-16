@@ -2,13 +2,13 @@
 
 A Windows tray app that reads Star Citizen's own log files and shows you what is happening: events, blueprints you own, reputation, and mining. It is part of the OmniOps companion at <https://bureau.belpire.com/rsi1/companion/>.
 
-**Current version: 0.0.1** (first public build)
+**Current version: 0.0.2**
 
 ## Download
 
-[OmniGlass-Desktop-0.0.1-x64-setup.exe](https://github.com/Belpire-Carnival/omniglass-releases/releases/latest/download/OmniGlass-Desktop-0.0.1-x64-setup.exe) (1.79 MiB)
+[OmniGlass-Desktop-0.0.2-x64-setup.exe](https://github.com/Belpire-Carnival/omniglass-releases/releases/latest/download/OmniGlass-Desktop-0.0.2-x64-setup.exe)
 
-SHA-256: `cdfda69f8de43bb4c85af8f6f6a62b3a4dc41f5093befc64fd1006eac5e1685b`
+SHA-256: `7a7eea12109c24c3e67d44f4924e539fe457b48572d029ed6cf36f2769ffbd9d`
 
 Only install it from this page or from the companion site. Do not install copies from other places.
 
