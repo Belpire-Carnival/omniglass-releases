@@ -1,14 +1,14 @@
 # OmniGlass Desktop
 
-A Windows tray app that reads Star Citizen's own log files and shows you what is happening: events, blueprints you own, reputation, and mining. It is part of the OmniOps companion at <https://bureau.belpire.com/rsi1/companion/>.
+A Windows tray app that reads Star Citizen's own log files and shows you what is happening: events, blueprints you own, reputation, and mining, with an in-game overlay of cards you can move and resize. It is part of the OmniOps companion at <https://bureau.belpire.com/rsi1/companion/>.
 
-**Current version: 0.0.2**
+**Current version: 0.1.0**
 
 ## Download
 
-[OmniGlass-Desktop-0.0.2-x64-setup.exe](https://github.com/Belpire-Carnival/omniglass-releases/releases/latest/download/OmniGlass-Desktop-0.0.2-x64-setup.exe)
+[OmniGlass-Desktop-0.1.0-x64-setup.exe](https://github.com/Belpire-Carnival/omniglass-releases/releases/latest/download/OmniGlass-Desktop-0.1.0-x64-setup.exe)
 
-SHA-256: `7a7eea12109c24c3e67d44f4924e539fe457b48572d029ed6cf36f2769ffbd9d`
+SHA-256: `1c0399451758ced43368831a1895a31fa990ea73606e73c7a3da639b751f09a2`
 
 Only install it from this page or from the companion site. Do not install copies from other places.
 
