@@ -1,19 +1,19 @@
-# OmniGlass Desktop guide (version 0.1.0)
+# OmniGlass Desktop guide (version 0.1.1)
 
 ## 1. Download and verify
 
-1. Download `OmniGlass-Desktop-0.1.0-x64-setup.exe` from the [latest release](https://github.com/Belpire-Carnival/omniglass-releases/releases/latest).
+1. Download `OmniGlass-Desktop-0.1.1-x64-setup.exe` from the [latest release](https://github.com/Belpire-Carnival/omniglass-releases/releases/latest).
 2. Open a terminal (PowerShell or Command Prompt) in the folder where it was saved.
 3. Run:
 
    ```
-   certutil -hashfile OmniGlass-Desktop-0.1.0-x64-setup.exe SHA256
+   certutil -hashfile OmniGlass-Desktop-0.1.1-x64-setup.exe SHA256
    ```
 
 4. The hash must be exactly:
 
    ```
-   1c0399451758ced43368831a1895a31fa990ea73606e73c7a3da639b751f09a2
+   3059776b7babf542daba0d6332f7d8e457693b1186c57565b14ec0e6f43c3b25
    ```
 
    If it differs, delete the file and download it again from this page. Do not run it.
@@ -113,7 +113,7 @@ A patch can change the game's text. Open Settings, Field Notes, and press Previe
 
 ### Good to know
 
-- Field Notes only changes English text. Other game languages are not supported in 0.1.0.
+- Field Notes only changes English text. Other game languages are not supported in 0.1.1.
 - CIG allows community text files but does not endorse them. Use it if you are comfortable with that.
 - If the game's text for a contract has no matching entry, that entry is skipped. Preview shows how many.
 
